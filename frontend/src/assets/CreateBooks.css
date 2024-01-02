@@ -1,0 +1,50 @@
+/* CreateBooks.css */
+
+.create-books-container {
+    padding: 1rem;
+    background-image: url(''); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .create-books-title {
+    font-size: 1.875rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .books-form-container {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #87ceeb;
+    border-radius: 0.75rem;
+    width: 600px;
+    padding: 1rem;
+    margin: auto;
+  }
+  
+  .form-input-container {
+    margin-bottom: 1rem;
+  }
+  
+  .form-label {
+    font-size: 1rem;
+    margin-right: 1rem;
+    color: #444;
+  }
+  
+  .form-input {
+    border: 2px solid #aaa;
+    padding: 0.5rem;
+    width: 100%;
+  }
+  
+  .form-button {
+    padding: 0.5rem 1rem;
+    background-color: #87ceeb;
+    margin-top: 2rem;
+    margin-left: auto;
+    cursor: pointer;
+  }
+  
